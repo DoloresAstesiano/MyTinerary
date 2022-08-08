@@ -1,0 +1,180 @@
+[
+    {
+        "cityItineraryName":"Luxury wine tour with gourmet lunch",
+        "nameOfThePerson": "Frank Smith",
+        "imageOfThePerson": "https://ath2.unileverservices.com/wp-content/uploads/sites/13/2020/05/cabello-pintado-hombre-7-1024x1024.jpg",
+        "description":"Mendoza is the largest wine region in Argentina and famous for its Malbec, as well as Cabernet Sauvignon and Chardonnay wines. On this tour you will enjoy an intimate wine tasting experience as you explore local wineries and vineyards.",
+        "price": "💵💵💵💵💵",
+        "duration": "8",
+        "hashtags": ["#mendoza", "#wine", "#malbec", "#CabernetSauvignon", "#capitalMuldialDelVino"], 
+        "likes":["0"],
+        "cityId":"",
+        "activities":[
+            {
+                "imageBodegaLuigiBosca":"https://images.losandes.com.ar/resizer/Pi8HSu6iRlOq2354jUwJx7BNZ64=/1200x630/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/FD3L65TUFNBZ7NDKVCES657PCE.jpg",
+                "bodegaLuigiBosca - Familia Arizu": "",
+                "imageBodegaZuccardi":"https://vinosybuenvivir.com/wp-content/uploads/2019/09/MG_4027-e1568902053772.jpg",
+                "bodegaZuccardi":"",
+                "imageBodegaNietoSanetir":"https://lasrutasdelvino.com.ar/wp-content/uploads/2022/03/DJI_0710-5-20.jpg",
+                "bodegaNietoSanetinerr":""
+            }
+        ]
+    },
+  
+    {
+        
+        "cityItineraryName": "The pleasure of combining rest with fun",
+        "nameOfThePerson": "Hayley Jim",
+        "imageOfThePerson": "https://siempremujer.com/imgs/images/image-71096-21546.jpg",
+        "description":"The tourist hub of the popular Riviera Maya, luxurious Playa del Carmen remains the jewel of Mexico's Caribbean coast. In a city ideally situated for wider explorations of the region, vacations are a treat. Despite its popularity, the city manages to retain its relaxed atmosphere and European lifestyle.",
+        "price": "💵💵💵💵",
+        "duration": "🕐8",
+        "hashtags": ["#RiveraMaya", "#beach", "#travel", "#Mexico"], 
+        "likes":["0"],
+        "cityId":"",
+        "activities":[
+            {
+                "imageRiveraMaya":"",
+                "RiveraMaya": "",
+                "imageQuintaAvenida":"",
+                "QuintaAvenida":"",
+                "imagePlayaCar":"",
+                "playaCar":""
+            }
+        ]
+    },
+    {
+        "cityItineraryName": "Popular things to do in Miami",
+        "nameOfThePerson": "Amber Deep",
+        "imageOfThePerson": "https://www.clarin.com/img/2015/03/20/claima20150320-8312-thinkstock-photos-mujer___HkwKuZR7x_340x340.jpg",
+        "description":"Florida’s mecca of fun in the sun, the lively tropical metropolis of Miami is one of the world’s top vacation spots. Made up of several distinct neighborhoods and breathtaking beaches, Miami has a vibrant local personality.",
+        "price": "💵💵💵",
+        "duration": "6",
+        "hashtags": ["#miamibeach", "#distritoArtDeco", "#SouthBeach", "#Wynwood"], 
+        "likes":["0"],
+        "cityId":"",
+        "activities":[
+            {
+                "imageWynwood":"",
+                "Wynwood": "",
+                "imagedistritoArtDeco":"",
+                "DistritoArtDeco":"",
+                "imageSouthBeach":"",
+                "SouthBeach":""
+            }
+        ]
+    },
+    {
+        "cityItineraryName": "Hidden gems in Miami",
+        "nameOfThePerson": "Ralph Donald",
+        "imageOfThePerson": "https://www.medsthetik.cl/wp-content/uploads/2018/07/carahombre-1024x555.jpg",
+        "description":"Miami is an international city in the southeastern corner of Florida, known for galleries, nights out and its iconic neighborhoods..",
+        "price": "💵💵💵",
+        "duration": "4",
+        "hashtags": ["#littleHavana", "#coralGables", "#Brickell"], 
+        "likes":["0"],
+        "cityId":"",
+        "activities":[
+            {
+                "imageLittleHavana":"",
+                "littleHavana": "",
+                "imagecoralGables":"",
+                "coralGables":"",
+                "imageBrickell":"",
+                "Brickell":""
+            }
+        ]
+    },
+    {
+        "cityItineraryName": "Mykonos Little Streets",
+        "nameOfThePerson": "Annie Lertle",
+        "imageOfThePerson": "https://images.generated.photos/gVF1ssTAbdz7eqAxtI96c_K5AGt_jIAfQDDgPgqsfbs/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTU4Njk2LmpwZw.jpg",
+        "description":"The heart of the island is known by locals and tourists to be Matogianni Street in Chora. The street is dominated by designer stores, souvenir shops, and handmade jewellery designers, sellers.",
+        "price": "💵💵",
+        "duration": "4",
+        "hashtags": ["#streets", "#mykonos", "#Matogianni", "#mills", "chora"], 
+        "likes":["0"],
+        "cityId":"",
+        "activities":[
+            {
+                "imageOfChora":"",
+                "Streets of Chora": "Matogianni street, the most commercial in the city, and the beautiful Agias Paraskevis, Enoplon, Dynameon and Mitropoleos, the most beautiful streets to see in Mykonos. If you are interested in entering the shops, do not worry about the time as they close at dawn.",
+                "imageLittleVenice":"",
+                "Little Venice":"Located just a few steps from the windmills, this is one of the main places to see in Mykonos. It is a neighborhood created in the 18th century by some merchants so that their houses would have access to the sea. I recommend you sit on one of its terraces to have a cocktail and watch the sunset.",
+                "image180DegreesSunsatBar":"",
+                "Degrees Sunsat Bar 180":"The best place to watch the sunset."
+            }
+        ]
+    },
+    {
+        "cityItineraryName": "The best beaches in Mykonos",
+        "nameOfThePerson": "Harry Wilson",
+        "imageOfThePerson": "https://images.generated.photos/WH-dP__F2ceUfvCjtISFM0x6mn3PP_nqKLLFz6SCXEU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzY4Nzk4LmpwZw.jpg",
+        "description":"Sun-drenched Paradise Beach remains largely responsible for Mykonos' nickname, the Ibiza of Greece. Considered one of the island's major attractions, the beach draws a young crowd of hedonists with its bars and clubs, serving cold drinks and a party atmosphere. The parties start early and extend into the wee hours of the night, attracting the largest crowds well after midnight. You can party at this beach all night every night, but if you wish to add some daylight activities to your itinerary, take a few guided diving adventures or board a boat cruise along the coastline.",
+        "price": "💵💵💵",
+        "duration": "6",
+        "hashtags": ["#beach", "#mykonos", "#lia", "#platisgialos", "#sunset"],
+        "likes": "0",
+        "cityId":"",
+        "activities":[
+            {
+                "imageParadiseBeach":"https://www.vacanzegreche.com/public/img/data/2020313154338327_paradise-beach-isola-di-mykonos.jpg",
+                "Paradise Beach": "The sun-kissed Paradise Beach may be largely responsible for Mykonos' nickname the -Ibiza of Greece-. Considered one of the island's main party beaches, this slice of tropical paradise attracts visitors with bars, clubs, and restaurants that serve cold cocktails and both Italian and Greek cuisine.",
+                "imagePlatisGialos":"",
+                "Platis Gialos": "It is a beautiful beach located 12 km from the capital, frequented above all by lovers of diving, snorkeling and windsurfing. If you are looking for tranquility on this beach you can lie down in the sun without problems to relax. Despite the fact that it is a somewhat windy beach, I can affirm without being wrong that it is one of the best beaches.",
+                "imageElia":"",
+                "Elia":"Stretch out on the soft sand of Elia Beach--the longest one in Mykonos. No matter how many people flock here, residents say it rarely feels crowded. Take a dip in the Aegean Sea, or visit the watersports center to rent a personal watercraft or go tubing. Two restaurants cater to the beach crowd--even serving food directly to your lounge chair. Be aware that the beach includes a designated area for nude sunbathing."
+                
+            }
+        ]
+    },
+    {
+        
+        "cityItineraryName": "Stunning architectural beauty",
+        "nameOfThePerson": "Austin Newman",
+        "imageOfThePerson": "https://i.pinimg.com/474x/8b/53/ef/8b53ef273a6193583ff058cdd361cbba.jpg",
+        "description":"Is a cosmopolitan urban center known for its throbbing youthful energy and stellar architecture.",
+        "price": "💵💵💵",
+        "duration": "6",
+        "hashtags": ["#barcelona", "#sagradaFamilia", "#parcguell"],
+        "likes": "0",
+        "cityId":"",
+        "activities":[
+            {
+                "imageSagradaFamilia":"",
+                "sagradaFamilia": "",
+                "imageParcGuell":"",
+                "parcGuell": "",
+                "imageElBarriGotic":"",
+                "elBarriGotic":""
+                
+            }
+        ]
+    },
+    {
+        "cityItineraryName": "Jewel of the Mediterranean",
+        "nameOfThePerson": "Cary Grant",
+        "imageOfThePerson": "https://i.pinimg.com/236x/0f/5b/94/0f5b945934207420481c2e43069e1fe0.jpg",
+        "description":"Very modern yet incredibly old, the city manages to preserve and celebrate its ancient elements, while showcasing new developments at the same time. ",
+        "price": "💵💵💵",
+        "duration": "5",
+        "hashtags": ["#barcelona", "#cosmopolita", "#spain"],
+        "likes": "0",
+        "cityId":"",
+        "activities":""
+   
+    },
+    {
+       
+        "cityItineraryName": "Japan's busy capital",
+        "nameOfThePerson": "Kate Eastwood",
+        "imageOfThePerson": "https://cdn.forbes.com.mx/2021/03/Di%CC%81a-Internacional-de-la-Mujer-1-e1614616865173.jpg",
+        "description":"Tokyo holds the status of most populous metropolitan area in the world--a fact you'll find tangible as you walk the bustling streets and explore its diverse neighborhoods and cultures. During a trip to Tokyo, visitors should seek out both the bustle--like the pulsing nightlife in Shinjuku or the world-famous multidirectional intersection in Shibuya. ",
+        "price": "💵💵",
+        "duration": "4",
+        "hashtags": ["#tokyo", "#japan", "#destinations"],
+        "likes": "0",
+        "cityId":"",
+        "activities":""
+    }       
+]

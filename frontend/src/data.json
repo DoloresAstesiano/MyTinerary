@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "image": "https://www.losandes.com.ar/resizer/T63uL8Kp_oJEIXwmHt3a-toceK4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/7CEQITORVRH2FF6IMKE7FECCY4.jpg"
+    },
+    {
+        "id": "2",
+        "city": "Playa del Carmen",
+        "country": "Mexico",
+        "image": "https://a.cdn-hotels.com/gdcs/production189/d1769/7bdf5360-fe12-11e8-a178-0242ac11000d.jpg"
+    },
+    {
+        "id": "3",
+        "city": "Miami",
+        "country": "United States",
+        "image": "https://pbs.twimg.com/media/Ex04G-ZWgAYiwfl.png"
+    },
+    {
+        "id": "4",
+        "city": "Mykonos",
+        "country": "Greece",
+        "image": "https://www.costacruceros.com/content/dam/costa/inventory-assets/ports/JTR/jtr-santorini-port-1.jpg.image.1125.1446.low.jpg"
+    },
+    {
+        "id": "5",
+        "city": "London",
+        "country": "United Kingdom",
+        "image": "https://www.adonde-y-cuando.es/site/images/illustration/londres_830.jpg"
+    },
+    {
+        "id": "6",
+        "city": "Barcelona",
+        "country": "Spain",
+        "image": "https://media.istockphoto.com/photos/barcelona-spain-park-guell-fanrastic-view-of-famous-bench-in-park-in-picture-id1006128770?k=20&m=1006128770&s=612x612&w=0&h=X8RxUahclplY5fj0DdF2dT2_OuKSlGz5IH9M-8gD52s="
+    },
+    {
+        "id": "7",
+        "city": "San Francisco",
+        "country": "United States",
+        "image": "https://lonelyplanetes.cdnstatics2.com/sites/default/files/styles/max_1300x1300/public/fotos/eeuu_sanfrancisco_paintedladies_alamosquare_shutterstockrf_568363738_canadastock_shutterstock.jpg?itok=fxStvcj9"
+    },
+    {
+        "id": "8",
+        "city": "Paris",
+        "country": "France",
+        "image": "https://www.estacionesdelano.com/wp-content/uploads/2018/02/verano-paris-1024x768.jpg"
+    },
+    {
+        "id": "9",
+        "city": "Verona",
+        "country": "Italy",
+        "image": "https://media.istockphoto.com/photos/aerial-view-of-verona-historical-city-centre-ponte-pietra-bridge-picture-id1215527379?k=20&m=1215527379&s=612x612&w=0&h=lOLjnHLsbPqE_7Ih4OvlRCAHsG6nXvWVy8iMkG6asiQ="
+    },
+    {
+        "id": "10",
+        "city": "Tokyo",
+        "country": "Japan",
+        "image": "https://i.pinimg.com/564x/ce/15/f3/ce15f3c37b088834eda1926567388491.jpg"
+    },
+    {
+        "id": "11",
+        "city": "Marrakech",
+        "country": "Marocco",
+        "image": "https://i.pinimg.com/564x/42/d1/43/42d143dfd034d2dec6fb493fff59b712.jpg"
+    },
+    {
+        "id": "12",
+        "city": "Sydney",
+        "country": "Australia",
+        "image": "https://cdn.getyourguide.com/img/location/5ffeb41ba859e.jpeg/99.jpg"
+    }
+]

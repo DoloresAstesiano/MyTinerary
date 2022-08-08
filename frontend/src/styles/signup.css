@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.containerSignup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh; 
+    margin-bottom: 1rem;
+
+}
+.container_txt_Select{
+    font-size: 1rem;
+    color: #37474f; 
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.containerInputCountry{
+    width: 90%;
+    margin-bottom: 1rem;
+}
+.inputCountry{
+    color:  #37474f !important; 
+
+}
+.buttonSignup{
+   background-color: rgba(99, 120, 136, 0.76) !important;
+}
+.container_txt_googleButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container_txt_or_with{
+    font-size: 2rem;
+    color: #37474f;
+    margin-bottom: 1rem;
+}
+.nsm7Bb-HzV7m-LgbsSe-MJoBVe{
+    border-radius: 0.3rem;
+}
+
+.txt_back_login{
+    color: #680a6bbd; 
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 466px){
+    .containerInputCountry{
+        width: 52%;
+    }
+} 
+@media (min-width: 769px){
+    .containerInputCountry{
+        width: 42%;
+    }
+} 
+@media (min-width: 1024px){
+    .containerInputCountry{
+        width: 39%;
+    }
+} 
+@media (min-width: 1440px){
+    .containerInputCountry{
+        width: 28%;
+    }
+} 
+
